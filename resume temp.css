@@ -1,0 +1,58 @@
+#col{
+   font-size: 36px;
+   background-color: coral;
+   margin-left:5px;
+   height:1260px;
+   color:white;
+   text-align: center;
+}
+#img{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+#cont{
+    color:rgb(66, 9, 237);
+    font-size:24px;
+    text-align:left ;
+}
+#add{
+    font-size:16px;
+    text-align: left;
+}
+#src{
+    height:38px;
+    width:28px;
+}
+#list{
+    font-size:16px;
+    text-align:left;
+}
+#esc{   
+    background-color:rgb(215, 225, 113);
+}
+#row{
+    font-size:32px;
+    color:white;
+    background-color:plum;
+    text-align:center;
+    margin-left:200px ;
+    margin-right:200px;
+}
+#com{
+    background-color:rgb(84, 152, 154) ;
+    width:150px;
+    font-size:24px;
+    color:white;
+    text-align:center;
+    border-radius:20px;
+}
+#so{
+    font-size:16px;
+    padding:5px;
+}
+#som{
+    font-size:16px;
+}
